@@ -4815,6 +4815,10 @@ pkg-dir@^1.0.0:
   dependencies:
     find-up "^1.0.0"
 
+"playkit-common@https://github.com/Yuvalke/playkit-common.git#master":
+  version "0.0.0"
+  resolved "https://github.com/Yuvalke/playkit-common.git#0ead28e1e5afdd86f3f87a0b6c5d65a55a2da360"
+
 please-upgrade-node@^3.0.2:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/please-upgrade-node/-/please-upgrade-node-3.1.1.tgz#ed320051dfcc5024fae696712c8288993595e8ac"

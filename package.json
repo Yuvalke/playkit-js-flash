@@ -79,7 +79,8 @@
     "webpack-dev-server": "2.5.0"
   },
   "peerDependencies": {
-    "@playkit-js/playkit-js": "^0.41.0"
+    "@playkit-js/playkit-js": "^0.41.0",
+    "playkit-common": "https://github.com/Yuvalke/playkit-common.git#master"
   },
   "keywords": [
     "kaltura",
