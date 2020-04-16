@@ -1,2 +1,2 @@
 import:
-  - node_modules/playkit-common/.travis.yml
+  - node_modules/playkit-common/.travis.yml 
