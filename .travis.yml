@@ -1,2 +1,2 @@
 import:
-  - ./node_modules/playkit-common/.travis.yml
+  - Yuvalke/playkit-common:.travis.yml@master
