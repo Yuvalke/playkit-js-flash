@@ -1,2 +1,2 @@
 import:
-  - Yuvalke/playkit-common:.travis.yml@master
+  - kaltura/playkit-js-flash:.travis.yml@master
